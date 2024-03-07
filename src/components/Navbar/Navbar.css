@@ -1,0 +1,33 @@
+.nav-margin {
+    margin-bottom: 70px;
+}
+nav .cart {
+    width: 50px;
+}
+
+nav .cart-container {
+    padding-right: 2rem;
+    font-size: 24px;
+    position: relative;
+}
+
+.cart-container .cart-container_tot {
+    position: absolute;
+    top: -7px;
+    left: 37px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    transition: all 2s ease;
+}
+
+.hidden {
+    opacity: 0;
+}

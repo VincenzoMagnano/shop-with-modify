@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "789",
+      "name": "Sophie",
+      "surname": "Jones",
+      "role": "dir",
+      "authentication": false
+    },
+    {
+      "name": "David",
+      "surname": "Clark",
+      "role": "pj",
+      "authentication": true,
+      "id": "1879"
+    },
+    {
+      "id": "101",
+      "name": "Emma",
+      "surname": "White",
+      "role": "ps",
+      "authentication": false
+    },
+    {
+      "id": "245b",
+      "name": "Mtteo",
+      "surname": "Il grande",
+      "role": "ps",
+      "authentication": false
+    },
+    {
+      "id": "c14a",
+      "name": "Vincenzo",
+      "surname": "nino",
+      "role": "pj",
+      "authentication": false
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "brand": "TechMaster",
+      "price": 899.99,
+      "stock": 50,
+      "category": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "brand": "GadgetTech",
+      "price": 599.99,
+      "stock": 30,
+      "category": "Electronics"
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "brand": "FitGear",
+      "price": 79.99,
+      "stock": 100,
+      "category": "Footwear"
+    },
+    {
+      "id": "4",
+      "name": "Coffee Maker",
+      "brand": "BrewMaster",
+      "price": 129.99,
+      "stock": 20,
+      "category": "Appliances"
+    },
+    {
+      "id": "5",
+      "name": "Backpack",
+      "brand": "AdventureZone",
+      "price": 49.99,
+      "stock": 75,
+      "category": "Accessories"
+    },
+    {
+      "id": "6",
+      "name": "Digital Camera",
+      "brand": "PhotoPro",
+      "price": 499.99,
+      "stock": 15,
+      "category": "Electronics"
+    },
+    {
+      "id": "7",
+      "name": "Gaming Chair",
+      "brand": "GamerZone",
+      "price": 199.99,
+      "stock": 10,
+      "category": "Furniture"
+    },
+    {
+      "id": "8",
+      "name": "Wrist Watch",
+      "brand": "TimeMaster",
+      "price": 129.99,
+      "stock": 50,
+      "category": "Accessories"
+    },
+    {
+      "id": "9",
+      "name": "Blender",
+      "brand": "SmoothBlend",
+      "price": 69.99,
+      "stock": 25,
+      "category": "Appliances"
+    },
+    {
+      "id": "10",
+      "name": "Hiking Boots",
+      "brand": "OutdoorExplorer",
+      "price": 109.99,
+      "stock": 40,
+      "category": "Footwear"
+    }
+  ]
+}
